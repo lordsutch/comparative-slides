@@ -1,0 +1,284 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5-alpha6 -->
+<!-- CreationDate: Sun Oct 23 15:16:56 2005 -->
+<!-- Magnification: 1.000 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="5.8in" height="5.0in" viewBox="114 278 6951 6025">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="900" y="2025" width="2025" height="1275" rx="105" 
+style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffe0e0;
+"/>
+<!-- Line: box -->
+<rect x="3900" y="1200" width="3150" height="2100" rx="105" 
+style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#87cfff;
+"/>
+<!-- Line: box -->
+<rect x="1050" y="4875" width="1575" height="450" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffd600;
+"/>
+<!-- Line: box -->
+<rect x="2550" y="300" width="2250" height="450" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffd600;
+"/>
+<!-- Arc -->
+<path style="stroke:#00d100;stroke-width:30;stroke-linecap:butt"
+d="M 3000,6000 A 2431 2431  0  0  1  1350  1500 " />
+<!-- Arrowhead on XXXpoint -->
+<polygon points="1214 1628
+1322 1517
+1174 1564
+1214 1628
+
+" style="stroke:#00d100;stroke-width:15;
+fill:#00d100;"/>
+<!-- Line -->
+<polyline points="3975,2400
+2925,2400
+" style="stroke:#ff0000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="2957 2362
+2807 2400
+2957 2437
+2957 2362
+
+" style="stroke:#ff0000;stroke-width:15;
+fill:#ff0000;"/>
+<!-- Line -->
+<polyline points="4125,6000
+5560,5453
+" style="stroke:#00d100;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="5543 5500
+5670 5412
+5516 5430
+5543 5500
+
+" style="stroke:#00d100;stroke-width:15;
+fill:#00d100;"/>
+<!-- Line -->
+<polyline points="6675,5025
+6675,2625
+" style="stroke:#00d100;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="6712 2657
+6675 2507
+6637 2657
+6712 2657
+
+" style="stroke:#00d100;stroke-width:15;
+fill:#00d100;"/>
+<!-- Line -->
+<polyline points="3900,6000
+4978,2693
+" style="stroke:#00d100;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="5004 2735
+5015 2581
+4932 2711
+5004 2735
+
+" style="stroke:#00d100;stroke-width:15;
+fill:#00d100;"/>
+<!-- Line -->
+<polyline points="1950,1500
+1950,1950
+" style="stroke:#008f8f;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="1912 1918
+1950 2068
+1987 1918
+1912 1918
+
+" style="stroke:#008f8f;stroke-width:15;
+fill:#008f8f;"/>
+<!-- Line -->
+<polyline points="1650,3150
+2400,5025
+3247,5546
+" style="stroke:#ff00ff;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="3199 5561
+3347 5608
+3238 5497
+3199 5561
+
+" style="stroke:#ff00ff;stroke-width:15;
+fill:#ff00ff;"/>
+<!-- Line -->
+<polyline points="2250,3225
+3311,5489
+" style="stroke:#ff00ff;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="3263 5476
+3361 5596
+3331 5444
+3263 5476
+
+" style="stroke:#ff00ff;stroke-width:15;
+fill:#ff00ff;"/>
+<!-- Line -->
+<polyline points="3900,5550
+2550,4950
+2550,3450
+" style="stroke:#ff0000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="2587 3482
+2550 3332
+2512 3482
+2587 3482
+
+" style="stroke:#ff0000;stroke-width:15;
+fill:#ff0000;"/>
+<!-- Line -->
+<polyline points="5175,1725
+3223,1376
+" style="stroke:#0000ff;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="3261 1345
+3107 1356
+3248 1419
+3261 1345
+
+" style="stroke:#0000ff;stroke-width:15;
+fill:#0000ff;"/>
+<!-- Line -->
+<polyline points="5175,1650
+3975,675
+3200,1192
+" style="stroke:#0000ff;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:50 10 10 10 10;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="3206 1142
+3102 1257
+3247 1204
+3206 1142
+
+" style="stroke:#0000ff;stroke-width:15;
+fill:#0000ff;"/>
+<!-- Line -->
+<polyline points="1350,3225
+1950,4950
+4831,2717
+" style="stroke:#0000ff;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:50 10 10;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="4828 2766
+4924 2645
+4782 2707
+4828 2766
+
+" style="stroke:#0000ff;stroke-width:15;
+fill:#0000ff;"/>
+<!-- Text -->
+<text xml:space="preserve" x="4800" y="2400" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle" >
+National Assembly</text>
+<!-- Text -->
+<text xml:space="preserve" x="6600" y="2400" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle" >
+Senate</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="1425" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle" >
+President of the Republic</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="3075" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle" >
+Ministers</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="2700" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle" >
+Prime Minister</text>
+<!-- Text -->
+<text xml:space="preserve" x="3150" y="2625" fill="#ff0000"  font-family="Times" font-style="italic" font-weight="normal" font-size="144" text-anchor="start" >
+censure</text>
+<!-- Text -->
+<text xml:space="preserve" x="5850" y="3225" fill="#0000ff"  font-family="Times" font-style="italic" font-weight="normal" font-size="144" text-anchor="middle" >
+amends and votes</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="2250" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="middle" >
+Government</text>
+<!-- Text -->
+<text xml:space="preserve" x="5550" y="1425" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="middle" >
+Parliament</text>
+<!-- Text -->
+<text xml:space="preserve" x="3900" y="6225" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="middle" >
+The French citizenry</text>
+<!-- Text -->
+<text xml:space="preserve" x="7050" y="5250" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="end" >
+local government officials</text>
+<!-- Text -->
+<text xml:space="preserve" x="7050" y="5475" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="end" >
+(electors)</text>
+<!-- Text -->
+<text xml:space="preserve" x="3825" y="5850" fill="#00d100"  font-family="Times" font-style="italic" font-weight="normal" font-size="144" text-anchor="end" >
+elects</text>
+<!-- Text -->
+<text xml:space="preserve" x="2100" y="1725" fill="#008f8f"  font-family="Times" font-style="italic" font-weight="normal" font-size="144" text-anchor="start" >
+appoints</text>
+<!-- Text -->
+<text xml:space="preserve" x="1800" y="5175" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle" >
+Conseil d'Etat</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="5475" fill="#ff00ff"  font-family="Times" font-style="italic" font-weight="normal" font-size="144" text-anchor="end" >
+regulations</text>
+<!-- Text -->
+<text xml:space="preserve" x="3375" y="5250" fill="#ff0000"  font-family="Times" font-style="italic" font-weight="normal" font-size="144" text-anchor="start" >
+lawsuit</text>
+<!-- Text -->
+<text xml:space="preserve" x="3675" y="600" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle" >
+Constitutional council</text>
+<!-- Text -->
+<text xml:space="preserve" x="3375" y="4125" fill="#0000ff"  font-family="Times" font-style="italic" font-weight="normal" font-size="144" text-anchor="start" >
+law projects</text>
+<!-- Arc -->
+<path style="stroke:#0000ff;stroke-width:30;stroke-linecap:butt"
+d="M 5175,2550 A 728 728  0  0  0  6450  2550 " />
+<!-- Arrowhead on XXXpoint -->
+<polygon points="6374 2719
+6431 2576
+6313 2676
+6374 2719
+
+" style="stroke:#0000ff;stroke-width:15;
+fill:#0000ff;"/>
+<!-- Arc -->
+<path style="stroke:#0000ff;stroke-width:30;stroke-linecap:butt"
+d="M 6450,2175 A 728 728  0  0  0  5175  2175 " />
+<!-- Arrowhead on XXXpoint -->
+<polygon points="5250 2005
+5194 2149
+5311 2048
+5250 2005
+
+" style="stroke:#0000ff;stroke-width:15;
+fill:#0000ff;"/>
+</g>
+</svg>
