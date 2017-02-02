@@ -634,8 +634,8 @@
     the revolutionary era in 1790, replacing the older provinces. They
     have been reorganized over the years.</p>
 
-  <p>Currently (since 2016), metropolitan France (including Corsica)
-    has 97 <i lang="fr">départements</i>, grouped into
+  <p>Since 2016, metropolitan France (including Corsica) has
+    97 <i lang="fr">départements</i>, grouped into
     13 <i lang="fr">régions</i>.</p>
 
 </section>
@@ -832,15 +832,11 @@
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
-	controls: true,
-	progress: true,
-	history: true,
-        center: true,
+width: 1280,
+height: 960,
 
-	theme: Reveal.getQueryHash().theme || 'default', // available themes are in /css/theme
-	transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/linear(2d)
+// Optional libraries used to extend on reveal.js
 
-	// Optional libraries used to extend on reveal.js
 	dependencies: [
 					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
 					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
