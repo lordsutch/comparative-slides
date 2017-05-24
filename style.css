@@ -2,6 +2,9 @@
 
 @media print {
     #narrationToggle, .reveal section audio { display: none }
+
+    /* Fix bug in reveal.js */
+    .reveal .slides { transform: none !important }
 }
 
 /* Override image margins from global stylesheet */
