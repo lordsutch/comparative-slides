@@ -54,7 +54,7 @@
  */
 .reveal section audio {
     width: 50%; height: 75px; position: fixed; left: 25%; bottom: 4px;
-    z-index: 33; opacity: 0.75;
+    z-index: 33; opacity: 0.75; display: block;
 }
 
 .reveal section audio:hover { opacity: 1; }
