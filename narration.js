@@ -13,15 +13,13 @@ function hmsToSecondsOnly(str) {
 
 function revealSlide(e) {
     var element = e.target;
-
-    if(element.paused || element.ended) return;
+    if(element.ended) return;
 
     var timepoints = element.getAttribute('data-timepoints');
-
     if(!timepoints) return;
 
     var tplist = timepoints.split(',')
-    var fragment = tplist.length;
+    var fragment = tplist.length-1;
 
     for(var x=0; x < tplist.length; x++) {
         var transtime = hmsToSecondsOnly(tplist[x]); // Allow (hh:)mm:ss
@@ -34,9 +32,16 @@ function revealSlide(e) {
 
     var where = Reveal.getIndices();
     console.log(where.f, fragment, element.currentTime, transtime);
-    if(where.f != fragment)
+    if(where.f != fragment) {
         Reveal.navigateFragment(fragment);
+    }
 }
+
+/* 
+Reveal.on( 'fragmentshown', event => {
+    
+});
+*/
 
 function hideAudio(ob) {
     var audioelements = document.getElementsByTagName('audio')
